@@ -7,6 +7,13 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 ## Contenido
 * **Clase 1**
     * **2 preguntas** de lingüística computacional
+    * ¿Dónde programar en **Python**?
     * **variables** en Python
  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase1-problemas-variables.ipynb) 
+
+* **Clase 2**
+    * ¿Dónde almacenamos información de forma ordenada?
+    * **listas** en Python
+ 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase2-listas.ipynb) 
