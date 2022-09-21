@@ -6,7 +6,9 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 ## Contenidos!
 
-**Clase 1** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase1-problemas-variables.ipynb) 
+**Clase 1** 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase1-problemas-variables.ipynb) 
 
 - **Introducción:**
     - Ideas sobre **lingüística computacional**
@@ -16,15 +18,12 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - ¿qué es un string?
     - ¿qué operaciones básicas podemos hacer con números y strings?
 
+* **Clase 2**
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase2-listas.ipynb) 
+
 - **Listas:** estructuras básicas para almacenar información de forma ordenada
     - relaciones entre filas de supermercado y textos
     - ¿cómo almacenamos las palabras de un texto?
     - operaciones básicas con listas (y con textos)
-- **Ciclos for:** maneras de recorrer listas de forma ordenada
-
-* **Clase 2**
-    * ¿Dónde almacenamos información?
-    * ¿Por qué las filas de supermercado se parecen a textos?
-    * **listas** en Python
  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase2-listas.ipynb) 
