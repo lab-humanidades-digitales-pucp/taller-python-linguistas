@@ -4,9 +4,7 @@
 
 Este es el repositorio del taller **Introducción a la lingüística computacional con Python** - PUCP
 
-## Contenido
-
-**Contenidos!**
+## Contenidos!
 
 - **Variables:** forma de asociar etiquetas a ciertos elementos (especialmente, números, strings y listas) para operar con ellos
     - ¿qué es un número?
