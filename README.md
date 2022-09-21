@@ -6,6 +6,9 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 ## Contenidos!
 
+- **Introducción:**
+    - Ideas sobre **lingüística computacional**
+    - Preguntas que abordaremos en el taller
 - **Variables:** forma de asociar etiquetas a ciertos elementos (especialmente, números, strings y listas) para operar con ellos
     - ¿qué es un número?
     - ¿qué es un string?
