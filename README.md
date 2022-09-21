@@ -16,6 +16,8 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - operaciones básicas con listas (y con textos)
 - **Ciclos for:** maneras de recorrer listas de forma ordenada
 
+## Clases!
+
 * **Clase 1**
     * **2 preguntas** de lingüística computacional
     * ¿Dónde programar en **Python**?
