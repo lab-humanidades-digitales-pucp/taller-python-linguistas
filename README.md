@@ -6,6 +6,8 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 ## Contenidos!
 
+**Clase 1**
+
 - **Introducción:**
     - Ideas sobre **lingüística computacional**
     - Preguntas que abordaremos en el taller
@@ -13,20 +15,14 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - ¿qué es un número?
     - ¿qué es un string?
     - ¿qué operaciones básicas podemos hacer con números y strings?
+    
+[![Clase 1](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase1-problemas-variables.ipynb) 
+
 - **Listas:** estructuras básicas para almacenar información de forma ordenada
     - relaciones entre filas de supermercado y textos
     - ¿cómo almacenamos las palabras de un texto?
     - operaciones básicas con listas (y con textos)
 - **Ciclos for:** maneras de recorrer listas de forma ordenada
-
-## Clases!
-
-* **Clase 1**
-    * **2 preguntas** de lingüística computacional
-    * ¿Dónde programar en **Python**?
-    * **variables** en Python
- 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase1-problemas-variables.ipynb) 
 
 * **Clase 2**
     * ¿Dónde almacenamos información?
