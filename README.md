@@ -15,11 +15,11 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 - **Ideas** sobre **lingüística computacional**
 - **Preguntas** que abordaremos en el taller: 
     - ¿De qué forma podemos implementar un programa que sea capaz de transformar números enteros en palabras de una lengua peruana, por ejemplo 57 en pichqa chunka qanchis-ni-yuq?
-    - ¿Cómo podemos contar la cantidad de veces que aparece una palabra en un texto? ¿Qué nos dice estos sobre la forma en que se organizan las frecuencias de palabras?
+    - ¿Cómo podemos contar la cantidad de veces que aparece una palabra en un texto? ¿Qué nos dice esto sobre la existencia de patrones de frecuencias de palabras?
 - **Variables:** 
     - ¿Qué es un número?
     - ¿Qué es un string?
-    - ¿Qué operaciones básicas podemos hacer con números y strings?
+    - operaciones básicas con números y strings
 
 **Clase 2** - jueves 6 de octubre
 
@@ -27,7 +27,7 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 - **Listas:** 
     - relaciones entre filas de supermercado y textos
-    - ¿Cómo almacenamos las palabras de un texto?
+    - ¿Cómo almacenamos las palabras de un texto? ¿Cómo almacenamos números?
     - operaciones básicas con listas (y con textos)
     
     
@@ -37,16 +37,16 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - relaciones entre listas y ciclos for
     - ciclos for como listas: ejemplos básicos
     - ¿Cómo encontramos las palabras únicas de un texto?
-    - ¿De qué nos sirven las listas para el problema de asociar un número entero con su expresión en palabras?
+    - listas y el problema de asociar un número entero con su expresión en palabras
     
     
 **Clase 4** - jueves 20 de octubre
 
 - **Nociones de lógica en Python**
-    - reglas morfológicas y lógica básica
+    - lógica básica y reglas morfológicas
     - condiciones if-else
     - ¿Cuántas palabras tiene un texto?
-    - Funciones de la expresión de números en Quechua
+    - condiciones if-else en la expresión de números en Quechua
     
     
 **Clase 5** - jueves 27 de octubre
