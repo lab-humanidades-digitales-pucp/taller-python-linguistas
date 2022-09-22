@@ -6,7 +6,7 @@
 
 Este es el repositorio del taller **Introducción a la lingüística computacional con Python** - PUCP
 
-## Contenidos!
+## Contenidos! (en construcción)
 
 **Clase 1** - jueves 29 de septiembre
 
