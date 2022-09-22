@@ -50,7 +50,6 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     
 **Clase 5** jueves 27 de octubre
 
-- **Ciclo for**
-    - ¿Cómo construimos un generador de números en Quechua?
-    - ¿De qué forma pueden analizar los patrones de frecuencias de palabras de un texto?
+* ¿Cómo construimos un generador de números en Quechua?
+* ¿De qué forma se pueden analizar los patrones de frecuencias de palabras de un texto?
  
