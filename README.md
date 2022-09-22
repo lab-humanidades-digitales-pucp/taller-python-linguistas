@@ -23,8 +23,6 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 **Clase 2** - jueves 6 de octubre
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase2-listas.ipynb) 
-
 - **Listas:** 
     - relaciones entre filas de supermercado y textos
     - ¿Cómo almacenamos las palabras de un texto? ¿Cómo almacenamos números?
