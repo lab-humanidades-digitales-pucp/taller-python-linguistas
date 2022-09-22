@@ -28,4 +28,29 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - relaciones entre filas de supermercado y textos
     - ¿cómo almacenamos las palabras de un texto?
     - operaciones básicas con listas (y con textos)
+    
+    
+**Clase 3**
+
+- **Ciclo for**
+    - relaciones entre listas y ciclos for
+    - ciclos for como listas: ejemplos básicos
+    - ¿Cómo encontramos las palabras únicas de un texto?
+    - ¿De qué nos sirven las listas para el problema de asociar un número entero con su expresión en palabras?
+    
+    
+**Clase 4**
+
+- **Nociones de lógica en Python**
+    - reglas morfológicas y lógica básica
+    - condiciones if-else
+    - ¿Cuántas palabras tiene un texto?
+    - Funciones de la expresión de números en Quechua
+    
+    
+**Clase 5**
+
+- **Ciclo for**
+    - ¿Cómo construimos un generador de números en Quechua?
+    - ¿De qué forma pueden analizar los patrones de frecuencias de palabras de un texto?
  
