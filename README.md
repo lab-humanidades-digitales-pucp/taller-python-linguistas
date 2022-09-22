@@ -14,7 +14,7 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 - **Ideas** sobre **lingüística computacional**
 - **Preguntas** que abordaremos en el taller: 
-    - ¿De qué forma podemos implementar un programa que sea capaz de transformar números enteros en palabras de una lengua peruana, por ejemplo 57 en pichqa chunka qanchis-ni-yuq?
+    - ¿De qué forma podemos implementar un programa que sea capaz de transformar números enteros en palabras de una lengua peruana, por ejemplo **57** en **pichqa chunka qanchis-ni-yuq**?
     - ¿Cómo podemos contar la cantidad de veces que aparece una palabra en un texto? ¿Qué nos dice esto sobre la existencia de patrones de frecuencias de palabras?
 - **Variables:** 
     - ¿Qué es un número?
