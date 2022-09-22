@@ -1,5 +1,7 @@
 # Introducción a la lingüística computacional con Python
 
+[**Inscripciones!**](https://docs.google.com/forms/d/e/1FAIpQLSdbvzQ5L8e8dvVQwbMxK6GGdi6XXHmSmIsFt3Dl0RaJyMom1Q/viewform)
+
 ## Laboratorio de Humanidades Digitales, Pontificia Universidad Católica del Perú
 
 Este es el repositorio del taller **Introducción a la lingüística computacional con Python** - PUCP
