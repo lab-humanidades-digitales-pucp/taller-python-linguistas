@@ -15,9 +15,9 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - ¿De qué forma podemos implementar un programa que sea capaz de transformar números enteros en palabras de una lengua peruana, por ejemplo 57 en pichqa chunka qanchis-ni-yuq?
     - ¿Cómo podemos contar la cantidad de veces que aparece una palabra en un texto? ¿Qué nos dice estos sobre la forma en que se organizan las frecuencias de palabras?
 - **Variables:** 
-    - ¿qué es un número?
-    - ¿qué es un string?
-    - ¿qué operaciones básicas podemos hacer con números y strings?
+    - ¿Qué es un número?
+    - ¿Qué es un string?
+    - ¿Qué operaciones básicas podemos hacer con números y strings?
 
 **Clase 2** - jueves 6 de octubre
 
@@ -25,7 +25,7 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 - **Listas:** 
     - relaciones entre filas de supermercado y textos
-    - ¿cómo almacenamos las palabras de un texto?
+    - ¿Cómo almacenamos las palabras de un texto?
     - operaciones básicas con listas (y con textos)
     
     
