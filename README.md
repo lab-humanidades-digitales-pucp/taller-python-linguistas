@@ -6,7 +6,7 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 ## Contenidos!
 
-**Clase 1** jueves 29 de septiembre
+**Clase 1** - jueves 29 de septiembre
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase1-problemas-variables.ipynb) 
 
@@ -19,7 +19,7 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - ¿qué es un string?
     - ¿qué operaciones básicas podemos hacer con números y strings?
 
-**Clase 2** jueves 6 de octubre
+**Clase 2** - jueves 6 de octubre
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase2-listas.ipynb) 
 
@@ -29,7 +29,7 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - operaciones básicas con listas (y con textos)
     
     
-**Clase 3** jueves 13 de octubre
+**Clase 3** - jueves 13 de octubre
 
 - **Ciclo for**
     - relaciones entre listas y ciclos for
@@ -38,7 +38,7 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - ¿De qué nos sirven las listas para el problema de asociar un número entero con su expresión en palabras?
     
     
-**Clase 4** jueves 20 de octubre
+**Clase 4** - jueves 20 de octubre
 
 - **Nociones de lógica en Python**
     - reglas morfológicas y lógica básica
@@ -47,7 +47,7 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     - Funciones de la expresión de números en Quechua
     
     
-**Clase 5** jueves 27 de octubre
+**Clase 5** - jueves 27 de octubre
 
 * ¿Cómo construimos un generador de números en Quechua?
 * ¿De qué forma se pueden analizar los patrones de frecuencias de palabras de un texto?
