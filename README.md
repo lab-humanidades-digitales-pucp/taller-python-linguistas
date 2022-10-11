@@ -35,6 +35,8 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     
 **Clase 3** - jueves 13 de octubre
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase3-listas-for.ipynb) 
+
 - **Ciclo for**
     - relaciones entre listas y ciclos for
     - ciclos for como listas: ejemplos básicos
