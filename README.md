@@ -27,6 +27,8 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase2-listas.ipynb) 
 
+[**Video Sesión 2**](https://www.youtube.com/watch?v=UXqPFSlb5Is)
+
 - **Listas:** 
     - relaciones entre filas de supermercado y textos
     - ¿Cómo almacenamos las palabras de un texto? ¿Cómo almacenamos números?
@@ -37,6 +39,8 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase3-listas-for.ipynb) 
 
+[Video Sesión 3](https://www.youtube.com/watch?v=-PMDh65HBxE)
+
 - **Ciclo for**
     - relaciones entre listas y ciclos for
     - ciclos for como listas: ejemplos básicos
@@ -45,6 +49,8 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     
     
 **Clase 4** - jueves 20 de octubre
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase4-if-else.ipynb) 
 
 - **Nociones de lógica en Python**
     - lógica básica y reglas morfológicas
