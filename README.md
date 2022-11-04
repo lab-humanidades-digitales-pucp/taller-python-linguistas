@@ -1,6 +1,5 @@
 # Introducción a la lingüística computacional con Python
 
-[**Inscripciones!**](https://docs.google.com/forms/d/e/1FAIpQLSdbvzQ5L8e8dvVQwbMxK6GGdi6XXHmSmIsFt3Dl0RaJyMom1Q/viewform)
 
 ## Laboratorio de Humanidades Digitales + Especialidad de Lingüística, Facultad de Letras y Ciencias Humanas, Pontificia Universidad Católica del Perú
 
@@ -52,6 +51,8 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase4-if-else.ipynb) 
 
+[Video sesión 4](https://www.youtube.com/watch?v=FTVmy3_eFc0)
+
 - **Nociones de lógica en Python**
     - lógica básica y reglas morfológicas
     - condiciones if-else
@@ -61,6 +62,11 @@ Este es el repositorio del taller **Introducción a la lingüística computacion
     
 **Clase 5** - jueves 27 de octubre
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/lab-humanidades-digitales-pucp/taller-python-linguistas/blob/main/clases/clase5-numeros-palabras.ipynb) 
+
+[Video sesión 5](https://www.youtube.com/watch?v=_czUNwyuhyA)
+
 * ¿Cómo construimos un generador de números en Quechua?
 * ¿De qué forma se pueden analizar los patrones de frecuencias de palabras de un texto?
+ 
  
